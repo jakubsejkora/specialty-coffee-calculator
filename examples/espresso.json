@@ -1,0 +1,6 @@
+{
+  "method": "espresso",
+  "coffee_to_water_ratio": "1:2",
+  "brew_time_sec": 25,
+  "temperature_c": 93
+}
