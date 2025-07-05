@@ -1,0 +1,4 @@
+method: pour-over
+coffee_to_water_ratio: 1:16
+brew_time_sec: 180
+temperature_c: 96
